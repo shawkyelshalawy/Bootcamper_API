@@ -1,6 +1,6 @@
 # BootCamper API
 
-> Backend API for BootCamper application ,
+> Backend API for BootCamps application ,
 > which is a website for bootcamps and courses ,
 > every bootcamp may has some courses or path to learn a skill .
 
