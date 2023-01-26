@@ -1,7 +1,8 @@
 # DevCamper API
 
 > Backend API for DevCamper application ,
-> which is a bootcamp directory website
+> which is a website for bootcamps and courses ,
+> every bootcamp may has some courses or path to learn a skill .
 
 ## Usage
 
